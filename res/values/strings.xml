@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc">Hold Right Ctrl to dictate. Release to type the text into the focused field.</string>
+</resources>

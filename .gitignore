@@ -1,0 +1,9 @@
+build/
+models/
+rust/target/
+tmp/
+*.apk
+*.jks
+.vscode/
+.idea/
+*.swp
